@@ -1,0 +1,15 @@
+D:\Swinburne\Object-Oriented-Programming\Week 1\Week 1.2P Hello World\Week 1.2P Hello World\bin\Debug\net7.0\Hello World.exe
+D:\Swinburne\Object-Oriented-Programming\Week 1\Week 1.2P Hello World\Week 1.2P Hello World\bin\Debug\net7.0\Hello World.deps.json
+D:\Swinburne\Object-Oriented-Programming\Week 1\Week 1.2P Hello World\Week 1.2P Hello World\bin\Debug\net7.0\Hello World.runtimeconfig.json
+D:\Swinburne\Object-Oriented-Programming\Week 1\Week 1.2P Hello World\Week 1.2P Hello World\bin\Debug\net7.0\Hello World.dll
+D:\Swinburne\Object-Oriented-Programming\Week 1\Week 1.2P Hello World\Week 1.2P Hello World\bin\Debug\net7.0\Hello World.pdb
+D:\Swinburne\Object-Oriented-Programming\Week 1\Week 1.2P Hello World\Week 1.2P Hello World\obj\Debug\net7.0\Hello World.csproj.AssemblyReference.cache
+D:\Swinburne\Object-Oriented-Programming\Week 1\Week 1.2P Hello World\Week 1.2P Hello World\obj\Debug\net7.0\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swinburne\Object-Oriented-Programming\Week 1\Week 1.2P Hello World\Week 1.2P Hello World\obj\Debug\net7.0\Hello World.AssemblyInfoInputs.cache
+D:\Swinburne\Object-Oriented-Programming\Week 1\Week 1.2P Hello World\Week 1.2P Hello World\obj\Debug\net7.0\Hello World.AssemblyInfo.cs
+D:\Swinburne\Object-Oriented-Programming\Week 1\Week 1.2P Hello World\Week 1.2P Hello World\obj\Debug\net7.0\Hello World.csproj.CoreCompileInputs.cache
+D:\Swinburne\Object-Oriented-Programming\Week 1\Week 1.2P Hello World\Week 1.2P Hello World\obj\Debug\net7.0\Hello World.dll
+D:\Swinburne\Object-Oriented-Programming\Week 1\Week 1.2P Hello World\Week 1.2P Hello World\obj\Debug\net7.0\refint\Hello World.dll
+D:\Swinburne\Object-Oriented-Programming\Week 1\Week 1.2P Hello World\Week 1.2P Hello World\obj\Debug\net7.0\Hello World.pdb
+D:\Swinburne\Object-Oriented-Programming\Week 1\Week 1.2P Hello World\Week 1.2P Hello World\obj\Debug\net7.0\Hello World.genruntimeconfig.cache
+D:\Swinburne\Object-Oriented-Programming\Week 1\Week 1.2P Hello World\Week 1.2P Hello World\obj\Debug\net7.0\ref\Hello World.dll

@@ -1,0 +1,15 @@
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.2P\CounterTask\CounterTask\bin\Debug\net7.0\CounterTask.exe
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.2P\CounterTask\CounterTask\bin\Debug\net7.0\CounterTask.deps.json
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.2P\CounterTask\CounterTask\bin\Debug\net7.0\CounterTask.runtimeconfig.json
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.2P\CounterTask\CounterTask\bin\Debug\net7.0\CounterTask.dll
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.2P\CounterTask\CounterTask\bin\Debug\net7.0\CounterTask.pdb
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.2P\CounterTask\CounterTask\obj\Debug\net7.0\CounterTask.csproj.AssemblyReference.cache
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.2P\CounterTask\CounterTask\obj\Debug\net7.0\CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.2P\CounterTask\CounterTask\obj\Debug\net7.0\CounterTask.AssemblyInfoInputs.cache
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.2P\CounterTask\CounterTask\obj\Debug\net7.0\CounterTask.AssemblyInfo.cs
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.2P\CounterTask\CounterTask\obj\Debug\net7.0\CounterTask.csproj.CoreCompileInputs.cache
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.2P\CounterTask\CounterTask\obj\Debug\net7.0\CounterTask.dll
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.2P\CounterTask\CounterTask\obj\Debug\net7.0\refint\CounterTask.dll
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.2P\CounterTask\CounterTask\obj\Debug\net7.0\CounterTask.pdb
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.2P\CounterTask\CounterTask\obj\Debug\net7.0\CounterTask.genruntimeconfig.cache
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.2P\CounterTask\CounterTask\obj\Debug\net7.0\ref\CounterTask.dll

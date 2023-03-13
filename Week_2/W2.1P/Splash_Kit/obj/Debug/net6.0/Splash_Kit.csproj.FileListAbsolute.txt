@@ -1,0 +1,15 @@
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.1P\Splash_Kit\bin\Debug\net6.0\Splash_Kit.exe
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.1P\Splash_Kit\bin\Debug\net6.0\Splash_Kit.deps.json
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.1P\Splash_Kit\bin\Debug\net6.0\Splash_Kit.runtimeconfig.json
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.1P\Splash_Kit\bin\Debug\net6.0\Splash_Kit.dll
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.1P\Splash_Kit\bin\Debug\net6.0\Splash_Kit.pdb
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.1P\Splash_Kit\obj\Debug\net6.0\Splash_Kit.csproj.AssemblyReference.cache
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.1P\Splash_Kit\obj\Debug\net6.0\Splash_Kit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.1P\Splash_Kit\obj\Debug\net6.0\Splash_Kit.AssemblyInfoInputs.cache
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.1P\Splash_Kit\obj\Debug\net6.0\Splash_Kit.AssemblyInfo.cs
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.1P\Splash_Kit\obj\Debug\net6.0\Splash_Kit.csproj.CoreCompileInputs.cache
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.1P\Splash_Kit\obj\Debug\net6.0\Splash_Kit.dll
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.1P\Splash_Kit\obj\Debug\net6.0\refint\Splash_Kit.dll
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.1P\Splash_Kit\obj\Debug\net6.0\Splash_Kit.pdb
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.1P\Splash_Kit\obj\Debug\net6.0\Splash_Kit.genruntimeconfig.cache
+D:\Swinburne\Object-Oriented-Programming\Week_2\W2.1P\Splash_Kit\obj\Debug\net6.0\ref\Splash_Kit.dll
