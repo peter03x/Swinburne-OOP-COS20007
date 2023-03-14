@@ -973,6 +973,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "SwinAdventure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/SwinAdventure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SwinAdventure.dll": {}
+        }
       }
     }
   },
@@ -3945,6 +3955,11 @@
         "system.xml.xdocument.4.0.11.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "SwinAdventure/1.0.0": {
+      "type": "project",
+      "path": "../Swin-Adventure/SwinAdventure.csproj",
+      "msbuildProject": "../Swin-Adventure/SwinAdventure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3953,6 +3968,7 @@
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.3.0",
       "NUnit3TestAdapter >= 4.2.1",
+      "SwinAdventure >= 1.0.0",
       "coverlet.collector >= 3.1.2"
     ]
   },
@@ -3982,7 +3998,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Swinburne\\Object-Oriented-Programming\\Swinburne-OOP-\\Implementation Project\\Swin-Adventure\\Swin-Adventure\\SwinAdventure.csproj": {
+              "projectPath": "D:\\Swinburne\\Object-Oriented-Programming\\Swinburne-OOP-\\Implementation Project\\Swin-Adventure\\Swin-Adventure\\SwinAdventure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

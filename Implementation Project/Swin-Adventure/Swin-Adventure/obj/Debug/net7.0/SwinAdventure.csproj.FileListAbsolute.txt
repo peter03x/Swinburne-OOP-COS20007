@@ -1,0 +1,15 @@
+D:\Swinburne\Object-Oriented-Programming\Swinburne-OOP-\Implementation Project\Swin-Adventure\Swin-Adventure\obj\Debug\net7.0\SwinAdventure.csproj.AssemblyReference.cache
+D:\Swinburne\Object-Oriented-Programming\Swinburne-OOP-\Implementation Project\Swin-Adventure\Swin-Adventure\obj\Debug\net7.0\SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swinburne\Object-Oriented-Programming\Swinburne-OOP-\Implementation Project\Swin-Adventure\Swin-Adventure\obj\Debug\net7.0\SwinAdventure.AssemblyInfoInputs.cache
+D:\Swinburne\Object-Oriented-Programming\Swinburne-OOP-\Implementation Project\Swin-Adventure\Swin-Adventure\obj\Debug\net7.0\SwinAdventure.AssemblyInfo.cs
+D:\Swinburne\Object-Oriented-Programming\Swinburne-OOP-\Implementation Project\Swin-Adventure\Swin-Adventure\obj\Debug\net7.0\SwinAdventure.csproj.CoreCompileInputs.cache
+D:\Swinburne\Object-Oriented-Programming\Swinburne-OOP-\Implementation Project\Swin-Adventure\Swin-Adventure\bin\Debug\net7.0\SwinAdventure.exe
+D:\Swinburne\Object-Oriented-Programming\Swinburne-OOP-\Implementation Project\Swin-Adventure\Swin-Adventure\bin\Debug\net7.0\SwinAdventure.deps.json
+D:\Swinburne\Object-Oriented-Programming\Swinburne-OOP-\Implementation Project\Swin-Adventure\Swin-Adventure\bin\Debug\net7.0\SwinAdventure.runtimeconfig.json
+D:\Swinburne\Object-Oriented-Programming\Swinburne-OOP-\Implementation Project\Swin-Adventure\Swin-Adventure\bin\Debug\net7.0\SwinAdventure.dll
+D:\Swinburne\Object-Oriented-Programming\Swinburne-OOP-\Implementation Project\Swin-Adventure\Swin-Adventure\bin\Debug\net7.0\SwinAdventure.pdb
+D:\Swinburne\Object-Oriented-Programming\Swinburne-OOP-\Implementation Project\Swin-Adventure\Swin-Adventure\obj\Debug\net7.0\SwinAdventure.dll
+D:\Swinburne\Object-Oriented-Programming\Swinburne-OOP-\Implementation Project\Swin-Adventure\Swin-Adventure\obj\Debug\net7.0\refint\SwinAdventure.dll
+D:\Swinburne\Object-Oriented-Programming\Swinburne-OOP-\Implementation Project\Swin-Adventure\Swin-Adventure\obj\Debug\net7.0\SwinAdventure.pdb
+D:\Swinburne\Object-Oriented-Programming\Swinburne-OOP-\Implementation Project\Swin-Adventure\Swin-Adventure\obj\Debug\net7.0\SwinAdventure.genruntimeconfig.cache
+D:\Swinburne\Object-Oriented-Programming\Swinburne-OOP-\Implementation Project\Swin-Adventure\Swin-Adventure\obj\Debug\net7.0\ref\SwinAdventure.dll

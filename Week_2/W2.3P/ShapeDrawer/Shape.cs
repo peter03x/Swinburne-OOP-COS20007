@@ -28,7 +28,7 @@ namespace ShapeDrawer
         }
         public bool lsAt(Point2D pt) //Checking if the mouse is inside the shape
         {
-            if ((pt.X - _x < _width) && (pt.Y - _y < _height)) return true;
+            if ((pt.X - _x <= _width) && (pt.Y - _y <= _height)) return true;
              else return false;
         }
         public Color Color

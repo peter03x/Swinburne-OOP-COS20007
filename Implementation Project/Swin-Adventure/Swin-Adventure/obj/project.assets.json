@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Swinburne\\Object-Oriented-Programming\\Swinburne-OOP-\\Implementation Project\\Swin-Adventure\\Swin-Adventure\\Swin-Adventure.csproj",
-      "projectName": "Swin-Adventure",
-      "projectPath": "D:\\Swinburne\\Object-Oriented-Programming\\Swinburne-OOP-\\Implementation Project\\Swin-Adventure\\Swin-Adventure\\Swin-Adventure.csproj",
+      "projectUniqueName": "D:\\Swinburne\\Object-Oriented-Programming\\Swinburne-OOP-\\Implementation Project\\Swin-Adventure\\Swin-Adventure\\SwinAdventure.csproj",
+      "projectName": "SwinAdventure",
+      "projectPath": "D:\\Swinburne\\Object-Oriented-Programming\\Swinburne-OOP-\\Implementation Project\\Swin-Adventure\\Swin-Adventure\\SwinAdventure.csproj",
       "packagesPath": "C:\\Users\\pchub\\.nuget\\packages\\",
       "outputPath": "D:\\Swinburne\\Object-Oriented-Programming\\Swinburne-OOP-\\Implementation Project\\Swin-Adventure\\Swin-Adventure\\obj\\",
       "projectStyle": "PackageReference",

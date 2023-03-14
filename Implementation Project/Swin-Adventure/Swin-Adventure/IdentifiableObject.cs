@@ -4,28 +4,34 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Swin_Adventure
+namespace SwinAdventure
 {
-    internal class IdentifiableObject
+    public class IdentifiableObject
     {
         private List<string> _identifiers;
         public  IdentifiableObject(string[] idents)
         {
+            _identifiers = new List<string>();
             _identifiers.AddRange(idents);
         }
         public bool AreYou(string id)
         {
             foreach(string c in _identifiers) 
-            { 
-                if (c == id) return true;
+            {
+                if (c.ToLower() == id.ToLower())
+                {
+                    Console.WriteLine("True");
+                    return true;
+                }
             }
+            Console.WriteLine("False");
             return false;
         }
         public string FirstId
         { 
             get
             {
-                if (_identifiers == null) return ""; 
+                if (_identifiers.First() == null) return ""; 
                 else return _identifiers.First();
             }
         }
@@ -42,7 +48,15 @@ namespace Swin_Adventure
                     break;
                 }
             }
+            _identifiers.Insert(i, id.ToLower());
             i = 0;
+        }
+        public void PrintIdents()
+        {
+            foreach (string c in _identifiers)
+            {
+                    Console.Write(c + " ");
+            };
         }
     }
 }
